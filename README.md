@@ -90,4 +90,12 @@ Visualizations Used
      Line ChartTotal Orders by Ship Mode
      Matrix TableTotal Sales, Profit, Discount, Return Rate, Profit Margin, YoY Growth
 
+ScreenShots Of Dashboard
+
+<img width="1366" height="768" alt="Index" src="https://github.com/user-attachments/assets/1c2150a6-a4c0-4292-ae42-63ab2edef56e" />
+<img width="1366" height="768" alt="Executive overview" src="https://github.com/user-attachments/assets/7f25be28-0db1-4ef2-b411-70d39443dcac" />
+
+
+
+
      
