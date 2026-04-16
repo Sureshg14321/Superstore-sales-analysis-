@@ -56,25 +56,34 @@ Profit Margin = DIVIDE (SUM (Orders [Actual Profit]), [Total Sales],0)
            Report Pages
 
 Page 1 – Executive Overview
-    KPI Cards used
+
+ KPI Cards used
                    Total Sales, Profit Margin, Return Rate, YoY Growth, Total Orders.
+
 Visualizations Used
     Line ChartTotal Sales by Year
     Bar ChartTotal Sales by Region
+	
 Slicers
     Order Date, Region
+	
 Page 2 – Sales & Profitability Analysis
+
 Visualizations Used
     Pie ChartSales by Category
     Waterfall ChartSales and Profit contribution by Category
      Bar ChartSales by Sub-Category
      Column ChartProfit Margin by Category
+	 
 Page 3 – Geographic & Segment Analysis
+
 Visualizations Used
      Tree mapSales by State
      Donut ChartSales by Customer Segment
      Bar ChartSales by Customer Name
+	 
 Page 4 – Returns & Shipping Analysis
+
 Visualizations Used
      KPIsTotal Orders, Total Returns 
      Area ChartReturned Orders by Segment
